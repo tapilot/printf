@@ -1,30 +1,30 @@
 # 0x11. C - printf
 ## C Group project  
 ```
-- By: Julien Barbier, co-founder & CEO  
-- Weight: 5  
-- Project to be done in teams of 2 people (your team: GLENN MAKHANDIA, Aluta Bovu)  
-- Ongoing second chance project - started Nov 10, 2023 6:00 AM, must end by Nov 18, 2023 6:00 AM  
-- An auto review will be launched at the deadline  
+By: Julien Barbier, co-founder & CEO  
+Weight: 5  
+Project to be done in teams of 2 people (your team: GLENN MAKHANDIA, Aluta Bovu)  
+Ongoing second chance project - started Nov 10, 2023 6:00 AM, must end by Nov 18, 2023 6:00 AM  
+An auto review will be launched at the deadline  
 ```
 ## Concepts
 _For this project, we expect you to look at these concepts:_   
 ```
-- [Group Projects](https://intranet.alxswe.com/concepts/111)  
-- [Pair Programming - How To](https://intranet.alxswe.com/concepts/121)  
-- [Flowcharts](https://intranet.alxswe.com/concepts/130)   
-- [Technical Writing](https://intranet.alxswe.com/concepts/225)  
-- [Printf function brief - What to know to create your own Printf function](https://intranet.alxswe.com/concepts/100034)  
-- [All about Team Projects + Pairings + FAQ (A must read)](https://intranet.alxswe.com/concepts/100037)  
+Group Projects  
+Pair Programming - How To
+Flowcharts
+Technical Writing](https://intranet.alxswe.com/concepts/225
+Printf function brief - What to know to create your own Printf function
+All about Team Projects + Pairings + FAQ (A must read) 
 ```
 # Resources
 ## Read or watch:
 ```
-- Secrets of printf
-- Group Projects concept page (Don’t forget to read this)
-- Flowcharts concept page
-**man or help:**  
-- printf (3)
+Secrets of printf
+Group Projects concept page (Don’t forget to read this)
+Flowcharts concept page
+_man or help:_
+printf (3)
 ```
 # Requirements
 ## General
